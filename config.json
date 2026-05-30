@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsfarse",
+        "uuid": 1713209,
+        "checksum": "ytlfyd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
